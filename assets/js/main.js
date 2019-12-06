@@ -23,7 +23,7 @@ var i = 0;
 var nizSlika = ["sliderSlika1Edit", "sliderSlika2Edit", "sliderSlika3Edit"];
 
 function imageSlider(){
-    document.getElementById("slider").style.backgroundImage = "url('../images/"+nizSlika[i]+".jpg')";
+    document.getElementById("slider").style.backgroundImage = "url('assets/images/"+nizSlika[i]+".jpg')";
 
     if(i < nizSlika.length-1){
         i++;
