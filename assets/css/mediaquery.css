@@ -1,0 +1,247 @@
+@media (max-width: 2000px){
+    #slider #modalBoxContact{
+        width: 5%;
+        height: 9%;
+    }
+    #menu #nav{
+        margin-top: 150%;
+    }
+    #menu #nav i{
+        margin-bottom: 95%;
+    }
+
+    #modalBoxBlur #modalBoxForm{
+        height: 80%;
+        margin: 0 auto;
+        margin-top: 7%;
+    }
+}
+
+@media (max-width: 1600px){
+    #modalBoxBlur #modalBoxForm{
+        margin: 0 auto;
+        margin-top: 9%;
+    }
+
+    #slider #modalBoxContact{
+        width: 6%;
+        height: 7%;
+    }
+    #slider #modalBoxContact i{
+        margin-left: 10px;
+        font-size: 2.5vw;
+    }
+
+    .menu--off #nav i{
+        font-size: 3vw;
+        margin-bottom: 250px !important;
+    }
+
+    .menu--off #leftArrow{
+        font-size: 3vw;
+        right: 10px;
+    }
+    #gornjiLeviBlok #bars{
+        font-size: 3vw;
+    }
+}
+
+@media (max-width: 1400px){
+    #modalBoxBlur #modalBoxForm{
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 11%;
+    }
+}
+
+@media (max-width: 1250px){
+    #modalBoxBlur #modalBoxForm{
+        width: 60%;
+        margin: 0 auto;
+        margin-top: 13%;
+    }
+    input[type="text"],input[type="email"]{
+        width: 250px;
+      }
+    form input[type="text"]::placeholder{
+        font-size: 2.5vw;
+    }
+    form input[type="email"]::placeholder{
+        font-size: 2.5vw;
+    }
+
+    form select{
+        width: 160px;
+        font-size: 2vw;
+    }
+    form input[type="radio"]{
+        width: 25px;
+        height: 25px;
+    }
+    form label{
+        font-size: 2.5vw;
+    }
+    form .btn-outline-secondary{
+        font-size: 2vw;
+    }
+}
+
+@media (max-width: 1100px){
+    #modalBoxBlur #modalBoxForm{
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 13%;
+    }
+    #slider #modalBoxContact{
+        width: 8%;
+        height: 6.5%;
+    }
+    #slider #modalBoxContact i{
+        margin-left: 10px;
+        font-size: 3vw;
+    }
+
+    .menu--off #nav i{
+        font-size: 3.5vw;
+        margin-bottom: 300px !important;
+    }
+
+    .menu--off #leftArrow{
+        font-size: 3vw;
+        right: 10px;
+    }
+}
+
+@media (max-width: 991px){
+    #slider{
+        height: 700px;
+    }
+
+    #slider #modalBoxContact{
+        width: 8%;
+        height: 6%;
+    }
+
+    #slider #modalBoxContact i{
+        font-size: 4.5vw;
+    }
+
+    #gornjiLeviBlok{
+        padding: 0;
+        margin: 0!important;
+        height: 500px !important;
+    }
+    #donjiLeviBlok{
+        padding: 0;
+        margin: 0!important;
+        height: 500px !important;
+    }
+    #modalBoxBlur{
+        height: 100% !important;
+        top: 0;
+    }
+    #modalBoxBlur #modalBoxForm{
+        width: 95%;
+        height: 90%;
+        margin: 0 auto;
+        margin-top: 10%;
+    }
+    form select{
+        width: 180px;
+        font-size: 2.3vw;
+    }
+    form .btn-outline-secondary{
+        font-size: 3vw;
+    }
+
+    .menu--off #nav i{
+        font-size: 4vw;
+        margin-bottom: 270px !important;
+    }
+
+    .menu--off #leftArrow{
+        font-size: 4vw;
+        right: 10px;
+    }
+
+    #gornjiLeviBlok #bars{
+        font-size: 4vw;
+    }
+}
+@media (max-width: 767.98px) {
+    #modalBoxBlur #modalBoxForm{
+        width: 100%;
+        height: 92%;
+        margin: 0 auto;
+        margin-top: 10%;
+    }
+    form select{
+        width: 120px;
+        font-size: 3vw;
+    }
+    form label{
+        font-size: 3vw;
+    }
+
+    input[type="text"],input[type="email"]{
+        width: 330px;
+      }
+    form input[type="text"]::placeholder{
+        font-size: 3.3vw;
+    }
+    form input[type="email"]::placeholder{
+        font-size: 3.3vw;
+    }
+}
+
+@media (max-width: 575.98px) {
+    form select{
+        width: 100px;
+        font-size: 3vw;
+    }
+    .fill{
+        width: 100%;
+        height: 100%;
+    }
+
+    #modalBoxBlur #modalBoxForm #subscribeNaslov{
+        font-size: 6vw;
+    }
+
+    form input[type="text"]::placeholder{
+        font-size: 3.8vw;
+    }
+    form input[type="email"]::placeholder{
+        font-size: 3.8vw;
+    }
+
+    form input[type="text"],input[type="email"]{
+        width: 250px;
+        height: 45px;
+        font-size: 4vw;
+      }
+    form .btn-outline-secondary{
+        font-size: 5vw;
+    }
+}
+
+@media (max-width: 375.98px){
+    form input[type="text"]::placeholder{
+        font-size: 4vw;
+    }
+    form input[type="email"]::placeholder{
+        font-size: 4vw;
+    }
+
+    form input[type="text"],input[type="email"]{
+        width: 230px;
+        height: 45px;
+        font-size: 4vw;
+      }
+    #modalBoxBlur #modalBoxForm{
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+        margin-top: 10%;
+    }
+}
